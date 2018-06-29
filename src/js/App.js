@@ -3,8 +3,8 @@ import "../scss/main.scss";
 
 const App = () => {
   return (
-    <div className="hero">
-      <p>React App</p>
+    <div>
+    <p>Hello World!</p>
     </div>
   );
 };
